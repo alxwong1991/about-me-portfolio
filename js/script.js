@@ -29,14 +29,14 @@ $(document).ready(function () {
 
     var typed = new Typed(".typing", {
         strings: ["Web Developer", "Web Designer", "Programmer", "Photographer", "Tech Enthusiast"],
-        typeSpeed: 100,
+        typeSpeed: 90,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["Web Developer", "Web Designer", "Programmer", "Photographer", "Tech Enthusiast"],
-        typeSpeed: 100,
+        typeSpeed: 90,
         backSpeed: 60,
         loop: true
     });

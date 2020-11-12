@@ -451,6 +451,7 @@ section .title::after {
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
+
 .projects .carousel .card .box {
     display: flex;
     flex-direction: column;
@@ -462,6 +463,19 @@ section .title::after {
 .projects .carousel .card:hover .box {
     transform: scale(1.05);
 }
+
+/* .projects .carousel .card:hover .box a {
+    margin-left: 60px;
+    display: inline-block;
+    background: black;
+    color: #ffff;
+    font-size: 25px;
+    padding: 12px 36px;
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 2px solid black;
+    transition: all 0.3s ease;
+} */
 
 .projects .carousel .card img {
     height: 200px;
